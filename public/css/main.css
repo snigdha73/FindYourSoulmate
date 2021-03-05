@@ -363,14 +363,34 @@ input.input100 {
     width: 100%;
   }
   #lock{
-padding: 20%;
+    right: 50%;
+  }
+  img{
+    width: 100%;
+  }
+  .js-tilt{
+    visibility: hidden;
+  }
+  .centered{
+    position: absolute;
+  top: 40%;
+  left: 45%;
+  transform: translate(-100%, -100%);
   }
 }
 
 @media (max-width: 576px) {
-  .wrap-contact100 {
-    padding: 110px 15px 157px 15px;
+ 
+
+  #lock{
+    right: 50%;
   }
+  .contact100-pic{
+    visibility: hidden;
+  }
+
+  }
+
 }
 
 
