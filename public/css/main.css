@@ -390,10 +390,12 @@ input.input100 {
 }
 
 @media (max-width: 576px) {
- 
+ .contact100-form-title{
+  padding-left: 25px;
+ }
 
   #lock{
-    right: 50%;
+    right: 43%;
   }
 
       .contact100-pic {
