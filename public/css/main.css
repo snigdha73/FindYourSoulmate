@@ -185,11 +185,7 @@ input.input100 {
   padding: 0 30px 0 50px;
 }
 
-textarea.input100 {
-  min-height: 150px;
-  border-radius: 25px;
-  padding: 14px 30px;
-}
+
 
 /*---------------------------------------------*/
 .wrap-input100 {
